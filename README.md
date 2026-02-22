@@ -1,4 +1,4 @@
-I'm an engineer at the Dutch Government, working in [Bureau Architectuur & Software Engineering](https://minbzk.github.io/BASE/) (BASE) at the Ministry of the Interior. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
+I'm an engineer at the Dutch Government, working in Bureau Architectuur Digitale Overheid (BADO) at the Ministry of the Interior. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
 
 #### What I'm working on
 
