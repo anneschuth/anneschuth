@@ -1,6 +1,6 @@
-I'm an engineer at the Dutch Government, working in Bureau Architectuur Digitale Overheid (BADO) at the Ministry of the Interior. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
+I'm a staff engineer at the Dutch Government, working within the Bureau Architectuur Digitale Overheid (BADO) at the Ministry of the Interior. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
 
-#### What I'm working on
+#### What I'm working on / used to work on
 
 ⚖️ [RegelRecht](https://github.com/MinBZK/poc-machine-law) — machine-executable legislation for transparent government decisions<br>
 🤖 [AMT](https://github.com/MinBZK/amt) — governance toolkit for algorithmic systems<br>
@@ -17,6 +17,7 @@ I'm an engineer at the Dutch Government, working in Bureau Architectuur Digitale
 - ML Engineering Manager, Search @ Spotify
 - Head of News Personalisation @ DPG Media
 - Research Scientist @ Google AI
+- ML Engineer @ Blendle
 - PhD on self-learning search engines @ University of Amsterdam
 
 #### Find me elsewhere
