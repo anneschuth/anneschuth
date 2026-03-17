@@ -2,14 +2,14 @@ I'm an engineer at the Dutch Government, working in Bureau Architectuur Digitale
 
 #### What I'm working on
 
-⚖️ [RegelRecht](https://github.com/MinBZK/poc-machine-law) — machine-executable legislation for transparent government decisions
-🤖 [AMT](https://github.com/MinBZK/amt) — governance toolkit for algorithmic systems
-🏛️ [developer.overheid.nl agent skills](https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills) — AI agent skills for the Dutch Government Developer Portal
-🧵 [claude-threads](https://github.com/anneschuth/claude-threads) — screen-sharing for AI pair programming in team chat
-📬 [parro](https://github.com/anneschuth/parro-cli) — CLI and Python SDK for the Parro school platform
-🔧 [mdmc](https://github.com/anneschuth/mdmc) — Markdown to Machine Code, your spec IS your source code
-🤝 [pinchwork](https://github.com/anneschuth/pinchwork) — agent-to-agent task marketplace
-📋 [logseq-tasks](https://github.com/anneschuth/logseq-tasks) — CLI for managing tasks between Google Tasks and Logseq
+⚖️ [RegelRecht](https://github.com/MinBZK/poc-machine-law) — machine-executable legislation for transparent government decisions<br>
+🤖 [AMT](https://github.com/MinBZK/amt) — governance toolkit for algorithmic systems<br>
+🏛️ [developer.overheid.nl agent skills](https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills) — AI agent skills for the Dutch Government Developer Portal<br>
+🧵 [claude-threads](https://github.com/anneschuth/claude-threads) — screen-sharing for AI pair programming in team chat<br>
+📬 [parro](https://github.com/anneschuth/parro-cli) — CLI and Python SDK for the Parro school platform<br>
+🔧 [mdmc](https://github.com/anneschuth/mdmc) — Markdown to Machine Code, your spec IS your source code<br>
+🤝 [pinchwork](https://github.com/anneschuth/pinchwork) — agent-to-agent task marketplace<br>
+📋 [logseq-tasks](https://github.com/anneschuth/logseq-tasks) — CLI for managing tasks between Google Tasks and Logseq<br>
 📱 [peerpressure](https://peerpressure.social) — social digital detox app using peer accountability
 
 #### Previously
