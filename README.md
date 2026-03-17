@@ -9,7 +9,6 @@ I'm a staff engineer at the Dutch Government, working within the Bureau Architec
 📬 [parro](https://github.com/anneschuth/parro-cli) — CLI and Python SDK for the Parro school platform<br>
 🔧 [mdmc](https://github.com/anneschuth/mdmc) — Markdown to Machine Code, your spec IS your source code<br>
 🤝 [pinchwork](https://github.com/anneschuth/pinchwork) — agent-to-agent task marketplace<br>
-📋 [logseq-tasks](https://github.com/anneschuth/logseq-tasks) — CLI for managing tasks between Google Tasks and Logseq<br>
 📱 [peerpressure](https://peerpressure.social) — social digital detox app using peer accountability
 
 #### Previously
