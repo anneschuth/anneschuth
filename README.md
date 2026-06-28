@@ -7,6 +7,8 @@ I'm a staff engineer at the Dutch Government, working within the Bureau Architec
 🏛️ [developer.overheid.nl agent skills](https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills) — AI agent skills for the Dutch Government Developer Portal<br>
 🧵 [claude-threads](https://github.com/anneschuth/claude-threads) — screen-sharing for AI pair programming in team chat<br>
 📬 [parro](https://github.com/anneschuth/parro-cli) — CLI and Python SDK for the Parro school platform<br>
+👶 [konnect](https://github.com/anneschuth/konnect-cli) — CLI and Python SDK for Konnect childcare portals (*.ouderportaal.nl)<br>
+🏠 [kovnet](https://github.com/anneschuth/kovnet-cli) — CLI and Python SDK for the KovNet childcare platform<br>
 🔧 [mdmc](https://github.com/anneschuth/mdmc) — Markdown to Machine Code, your spec IS your source code<br>
 🤝 [pinchwork](https://github.com/anneschuth/pinchwork) — agent-to-agent task marketplace<br>
 📱 [peerpressure](https://peerpressure.social) — social digital detox app using peer accountability
