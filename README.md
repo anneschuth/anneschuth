@@ -1,4 +1,4 @@
-I'm a staff engineer at the Dutch Government, working within the Bureau Architectuur Digitale Overheid (BADO) at the Ministry of the Interior. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
+I'm a staff engineer at the Dutch Digital Service, part of government. Before government, I worked at Spotify, DPG Media, Google AI, and Blendle. I hold a PhD in Information Retrieval from the University of Amsterdam.
 
 #### What I'm working on / used to work on
 
