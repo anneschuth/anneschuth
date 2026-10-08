@@ -2,7 +2,7 @@ I'm a staff engineer at the Dutch Digital Service. Before government, I worked a
 
 #### What I'm working on / used to work on
 
-⚖️ [RegelRecht](https://github.com/MinBZK/poc-machine-law) — machine-executable legislation for transparent government decisions<br>
+⚖️ [RegelRecht](https://github.com/MinBZK/regelrecht) — machine-executable legislation for transparent government decisions<br>
 🤖 [AMT](https://github.com/MinBZK/amt) — governance toolkit for algorithmic systems<br>
 🏛️ [developer.overheid.nl agent skills](https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills) — AI agent skills for the Dutch Government Developer Portal<br>
 🧵 [claude-threads](https://github.com/anneschuth/claude-threads) — screen-sharing for AI pair programming in team chat<br>
