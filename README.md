@@ -2,9 +2,9 @@ I'm a staff engineer at the Dutch Digital Service. Before government, I worked a
 
 #### What I'm working on / used to work on
 
-⚖️ [RegelRecht](https://github.com/MinBZK/regelrecht) — machine-executable legislation for transparent government decisions<br>
+⚖️ [RegelRecht](https://github.com/NederlandseDigitaleDienst/regelrecht) — machine-executable legislation for transparent government decisions<br>
 🤖 [AMT](https://github.com/MinBZK/amt) — governance toolkit for algorithmic systems<br>
-🏛️ [developer.overheid.nl agent skills](https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills) — AI agent skills for the Dutch Government Developer Portal<br>
+🏛️ [developer.overheid.nl skills marketplace](https://github.com/developer-overheid-nl/skills-marketplace) — AI agent skills for the Dutch Government Developer Portal<br>
 🧵 [claude-threads](https://github.com/anneschuth/claude-threads) — screen-sharing for AI pair programming in team chat<br>
 📬 CLIs and Python SDKs for Dutch school and childcare platforms: [parro](https://github.com/anneschuth/parro-cli), [konnect](https://github.com/anneschuth/konnect-cli), [kovnet](https://github.com/anneschuth/kovnet-cli)<br>
 🔧 [mdmc](https://github.com/anneschuth/mdmc) — Markdown to Machine Code, your spec IS your source code<br>
